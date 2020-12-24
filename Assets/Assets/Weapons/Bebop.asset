@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7abc6d95fe51441b01702780cbbb53, type: 3}
+  m_Name: Bebop
+  m_EditorClassIdentifier: 
+  name: Bebop
+  weaponPrefab: {fileID: 3316059450244996202, guid: b3a01341ce00bb74ea120f521cd23359, type: 3}
+  pickupSprite: {fileID: 7427833577325912739, guid: 3393fd72bfcf9d14c80ec829f171c5c9, type: 3}
+  spawnWeight: 1

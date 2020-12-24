@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Metal Choir
+  m_Controller: {fileID: 9100000, guid: a2bbe0e5fab09ac41a603943533e0ffe, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1e746f4c719d90448877937bb088152f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 687db2f069e73cf4997d8aceebc1aa3c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c46c5ea1152a00646a75c5f4aaeeb197, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7d27b40dbd1f4f444b70f50cdab6fd52, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 54a73f588dac69b479b1f761924b8c58, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4fe43d991d9cd6240b0ea97eec8c53cc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 64a9832a88a4ce8489afc1909dbdcee2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 317fb40a3d1fdbf43be23a551f4588a9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ac1f14ddd32ac2a47831bfcbacfd4212, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 12d151f64f8a0b446ab7450a1620590e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: dd624108c5357574e955613cc1f122ae, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4b2df642dda98764e82b2a0daff3a103, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f1e06f574ed44db4daaa5e992eea4411, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 62149203dd61a7142aaba9cf5906faa3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 104170b9a88e16a4c85c0b620ae5c09c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fb13595bd58955a4994afed7b75db61a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c0beb099730b6524aaca49d1aa8b166b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 98c122e992545c944a4933c0d4da6cca, type: 2}

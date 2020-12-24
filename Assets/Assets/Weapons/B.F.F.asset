@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7abc6d95fe51441b01702780cbbb53, type: 3}
+  m_Name: B.F.F
+  m_EditorClassIdentifier: 
+  name: B.F.F
+  weaponPrefab: {fileID: 2136799682643481433, guid: e067108442ea7454ab0ff37e6a93d3fa, type: 3}
+  pickupSprite: {fileID: 4429588162599239256, guid: 04edb8a4b71a53e41bdfdacd8cf93d48, type: 3}
+  spawnWeight: 0

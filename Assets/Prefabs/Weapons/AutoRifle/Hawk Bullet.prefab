@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &2322054411865166216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7261702436868988248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91c5de0b433bfb74f84768306f6431ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lifeTime: 1
+  emitDestructionItem: {fileID: 833090897122565519}
+--- !u!1001 &2530928124300573971
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4025119324117672422, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4025119324117672422, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4025119324117672422, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_Offset.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661700, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: tileVelocity
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661700, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: damage
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661700, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: lifeTime
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661701, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -278170411007220604, guid: 5589eb8dcafe01d4c90eb5d21f6a1642, type: 3}
+    - target: {fileID: 5177193832622661702, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661702, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661702, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661702, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661702, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661702, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661702, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661702, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661702, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661702, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661702, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177193832622661707, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: m_Name
+      value: Hawk Bullet
+      objectReference: {fileID: 0}
+    - target: {fileID: 8156242807127095707, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: damage
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 9142766700855135752, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+      propertyPath: tileVelocity
+      value: 30
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+--- !u!1 &7261702436868988248 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5177193832622661707, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+  m_PrefabInstance: {fileID: 2530928124300573971}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &833090897122565519 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2922856473163800732, guid: fdd0e98ee1598ea439133cf0af3b4f27, type: 3}
+  m_PrefabInstance: {fileID: 2530928124300573971}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7261702436868988248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f7fcb3a95950e440a0d7ca15afd91e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

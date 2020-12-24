@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bazooka
+  m_Controller: {fileID: 9100000, guid: 1c1217be6c6aa824485fd22a89e55bdf, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 219ac74e4363ef3459f83ac47c885f3d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 455caf26bdd87b7429f7ce7270ddea73, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c03f04944030517498d2004752f1d1cd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 67562621aedd0414b92b614dca654334, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3ea4f21151022db458376de5f19dddc8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a2a77df989ac20841a26e40042c6434b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d1b1758875b07b84286c910fbf1806b6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c3242217c2bddd94695863e85d33d631, type: 2}

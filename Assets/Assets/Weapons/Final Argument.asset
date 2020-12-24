@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7abc6d95fe51441b01702780cbbb53, type: 3}
+  m_Name: Final Argument
+  m_EditorClassIdentifier: 
+  name: Final Argument
+  weaponPrefab: {fileID: 2617317752284693566, guid: af5b71f6476f7a14489ded9f8ba74185, type: 3}
+  pickupSprite: {fileID: -5122207140631887856, guid: 4d70dcb74c9f4664782dc2db065ea3e4, type: 3}
+  spawnWeight: 1
